@@ -16,7 +16,6 @@ This project presents an interactive HR Analytics Dashboard built using Power BI
 - Data-driven decision support
 
 ## 📷 Dashboard Preview
-(Screenshot will be added here)
-
+![Dashboard](dashboard.png)
 ## 🚀 How to Use
 Download the .pbix file and open it using Microsoft Power BI Desktop to explore the dashboard.
